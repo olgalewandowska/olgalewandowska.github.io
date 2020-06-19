@@ -5,7 +5,7 @@ title: "Badania"
 
 Moje zainteresowania badawcze dotyczą polskiej i rosyjskiej literatury i kultury XX wieku, ze szczególnym uwzględnieniem twórczości polskich i rosyjskich bardów.
 
-### Publikacje
+## Publikacje
 1. Сфера культуры как место сопротивления тоталитаризму в песенном творчестве Александра Галича, w: „Studenckie Zeszyty Naukowe”, 2012, nr 1 (18).
 2. Obraz ojczyzny w poezji Czesława Miłosza i Josifa Brodskiego, „Studenckie Zeszyty Naukowe”, 2012, nr 3 (20), s. 7-32..
 3. Защита христианских ценностей в песенном творчестве Александра Галича, „Slavia Orientalis”, 2012, Tom LXI, nr 4, s. 429-446.
@@ -18,7 +18,7 @@ Moje zainteresowania badawcze dotyczą polskiej i rosyjskiej literatury i kultur
 10. Groteskowa wizja rzeczywistości w pieśniach Włodzimierza Wysockiego i Jacka Kaczmarskiego, w: HistoRisus, Historie śmiechu / śmiech [w] historii, red. R. Borysławski, J. Jajszczok, J. Wolff, A. Bemben, Wydawnictwo Uniwersytetu Śląskiego, Katowice 2016.
 11. Ideał barda w twórczości pieśniarskiej Bułata Okudżawy i Jacka Kleyffa, „Przegląd Rusycystyczny”, 2016, nr 1 (153), s. 44-60.
 
-### Referaty
+## Referaty
 1. Zachód jako Inny w pieśniach Włodzimierza Wysockiego, na ogólnopolskiej konferencji dla pracowników naukowych i doktorantów: Zachód  oczami Wschodu: fuzja światów – dyfuzja kultury, 25-27.05.2012 Kraków, Zakład Psychologii Religii, Instytut Religioznawstwa UJ.
 2. Bard – buntownik, przewodnik w pieśniach Jacka Kaczmarskiego i Włodzimierza Wysockiego, na konferencji Kaczmarski po dekadzie. Recepcja, kontynuacje, wspomnienia, Kraków, 17 października 2014.
 3. Doświadczenie emigracji w poezji Josifa Brodskiego, na międzynarodowej interdyscyplinarnej konferencji naukowej: Wrócić tam, gdzie nie było się dwadzieścia lat – Josifa Brodskiego powroty z historii, 6-8.12.2013 Kraków, Instytut Polonistyki UJ.
