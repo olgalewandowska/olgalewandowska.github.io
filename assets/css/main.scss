@@ -3,21 +3,35 @@
 
 @import "minimal-mistakes";
 
-.page_title {
-  p {
+h1 {
+  font-size: 16px;
+
+  @include breakpoint($medium) {
+    font-size: 18px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 20px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 22px;
+  }
+}
+
+h2 {
+  font-size: 14px;
+
+  @include breakpoint($medium) {
     font-size: 16px;
+  }
 
-    @include breakpoint($medium) {
-      font-size: 18px;
-    }
+  @include breakpoint($large) {
+    font-size: 18px;
+  }
 
-    @include breakpoint($large) {
-      font-size: 20px;
-    }
-
-    @include breakpoint($x-large) {
-      font-size: 22px;
-    }
+  @include breakpoint($x-large) {
+    font-size: 20px;
   }
 }
 
