@@ -22,4 +22,4 @@ defaults:
     layout: single
     author_profile: false
     sidebar:
-      nav: "main"
+      nav: "sidebar"
