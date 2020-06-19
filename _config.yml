@@ -3,6 +3,9 @@ title: dr Olga Lewandowska
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: mint
 
+include:
+- _pages
+
 plugins:
 - jekyll-include-cache
 
