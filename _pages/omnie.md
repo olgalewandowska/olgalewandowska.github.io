@@ -15,3 +15,5 @@ Pochodzę z pięknego, starego Krakowa i w tym mieście obecnie pracuję. Ukońc
 W ramach studiów ukończyłam kurs przygotowania pedagogicznego, zakończony praktykami nauczycielskimi w szkole podstawowej oraz w liceum. Prowadzę również zajęcia ze studentami z zakresu historii literatury rosyjskiej, rosjoznawstwa, a także autorską opcję _Polsko-rosyjskie przyjaźnie i inspiracje_. Jestem autorką szeregu publikacji naukowych, występowałam również jako prelegent na ogólnokrajowych i międzynarowych konferencjach naukowych - po szczegóły odsyłam Państwa do działu Badania.
 
 Prywatnie jestem mężatką i mamą trójki dzieci: Moniczki, Krzysia i Marysi.
+
+{% include figure image_path="/images/olgalewandowska.jpg" %}
