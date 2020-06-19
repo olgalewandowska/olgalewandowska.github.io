@@ -1,4 +1,7 @@
-## Witam na mojej stronie osobistej!
+---
+permalink: /
+title: "Witam na mojej stronie osobistej!"
+---
 
 Nazywam się Olga Lewandowska, jestem doktorem nauk humanistycznych. Od lat jestem związana z Uniwersytetem Jagiellońskim, gdzie prowadzę badania komparatystyczno-literackie oraz zajęcia dla studentów z zakresu literatury polskiej i rosyjskiej. Jestem również tłumaczem rosyjsko-polskim i polsko-rosyjskim, a także korepetytorem języka polskiego i rosyjskiego.
 
