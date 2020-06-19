@@ -1,6 +1,7 @@
 title: Olga Lewandowska
 
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: mint
 
 plugins:
 - jekyll-include-cache
