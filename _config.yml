@@ -12,7 +12,7 @@ plugins:
 
 author:
   name: "dr Olga Lewandowska"
-  avatar: "/images/olgalewandowska.jpg"
+  avatar: "/images/olgalewandowska_avatar.jpg"
 
 defaults:
 - scope:
