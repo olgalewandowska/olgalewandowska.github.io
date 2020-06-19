@@ -1,5 +1,5 @@
 ---
-permalink: /tlumaczenia
+permalink: /tlumaczenia/
 title: "Tłumaczenia"
 ---
 
