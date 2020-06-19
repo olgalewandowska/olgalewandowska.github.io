@@ -12,6 +12,6 @@ Oferuję usługi tłumaczenia tekstów ogólnych i specjalistycznych, zarówno r
 | Z języka angielskiego na język polski   | 30 zł              | 35 zł                       |
 | Z języka angielskiego na język rosyjski | 35 zł              | 40 zł                       |
 
-Podane ceny są cenami netto i dotyczą jednej standardowej strony rozliczeniowej (1800 znaków ze spacjami)
+Podane ceny są cenami netto i dotyczą jednej standardowej strony rozliczeniowej (1800 znaków ze spacjami).
 
-Teksty niestandardowe (np. strony internetowe) będą wyceniane osobno
+Teksty niestandardowe (np. strony internetowe) będą wyceniane osobno.
