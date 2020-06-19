@@ -3,7 +3,7 @@
 
 @import "minimal-mistakes";
 
-.page__content {
+.page_title {
   p {
     font-size: 16px;
 
@@ -17,6 +17,24 @@
 
     @include breakpoint($x-large) {
       font-size: 22px;
+    }
+  }
+}
+
+.page__content {
+  p, li, dl {
+    font-size: 10px;
+
+    @include breakpoint($medium) {
+      font-size: 12px;
+    }
+
+    @include breakpoint($large) {
+      font-size: 14px;
+    }
+
+    @include breakpoint($x-large) {
+      font-size: 16px;
     }
   }
 }
