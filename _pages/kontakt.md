@@ -3,8 +3,8 @@ permalink: /kontakt/
 title: "Kontakt"
 ---
 
-Olga Lewandowska
-ul. Adama Marczyńskiego 3/26
+Olga Lewandowska<br/>
+ul. Adama Marczyńskiego 3/26<br/>
 31-234 Kraków
 
 REGON: 366569831
